@@ -1,2 +1,4 @@
 This is a demo file for git.
 Making changes.
+Branch changes.
+
