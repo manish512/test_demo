@@ -2,3 +2,4 @@ This is a demo file for git.
 Making changes.
 Branch changes.
 forgot
+This is a different master change.
