@@ -1,1 +1,1 @@
-This is to understand conflict resolving
+This is conflict resolving
